@@ -29,7 +29,7 @@ namespace ManuelBelgrano.Truco
             } while (listadoDeIndicesDelMazo.Count < 100); //salida
 
 
-
+             
 
             int[] numeros = new int[] { 3, 0, 77, 9 };
             //intercambiar el elemento de la posición 2 con el elmento de la posición 0
